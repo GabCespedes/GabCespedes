@@ -24,7 +24,7 @@ Me chamo Gabriella Céspedes, tenho 19 anos e sou do interior de São Paulo. Con
 
 ---
 
-### ⌨️ Linguagens e Tecnologias
+### ⌨️ Tecnologias
 
 <img 
     align="left" 
