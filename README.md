@@ -1,6 +1,6 @@
 # 💻 GabCespedes
 
-**`Dev Fron-end`**
+**` Dev`**
 
 Me chamo Gabriella Céspedes, tenho 19 anos e sou do interior de São Paulo. Concluí o ensino médio na Etec Prof Marinês Teodoro de Freitas Almeida, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP - Campus Catanduva. Tenho um grande apreço por tecnologia e desenvolvimento de softwares.
 
