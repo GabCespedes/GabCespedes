@@ -69,8 +69,8 @@ Me chamo Gabriella Céspedes, tenho 19 anos e sou do interior de São Paulo. Con
 />
 
 
-<br/>
-<br/>
+</br>
+</br>
 
 ### 📊 Estatísticas
 
@@ -82,7 +82,7 @@ Me chamo Gabriella Céspedes, tenho 19 anos e sou do interior de São Paulo. Con
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabCespedes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-<br/>
+</br>
 <p>
   <img 
     align="left" 
