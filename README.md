@@ -82,8 +82,7 @@ Me chamo Gabriella Céspedes, tenho 19 anos e sou do interior de São Paulo. Con
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GabCespedes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br/>
-<br/>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
