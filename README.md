@@ -7,7 +7,6 @@
 
 🔭 Atualmente, estou focada em melhorar minhas habilidades em JS e Python. </br>
 💬 Pergunte-me sobre desenvolvimento front-end e design web. </br>
-🤔 Preciso de ajuda com algoritmos avançados e estruturas de dados em C. </br>
 ⚡ Curiosidade: Sou apaixonado por tecnologia e gosto de explorar conceitos de redes no meu tempo livre. </br>
 📫 Contato: gcespedes122@gmail.com
 
