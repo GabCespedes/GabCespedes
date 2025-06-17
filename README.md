@@ -1,8 +1,15 @@
 # 💻 GabCespedes
 
-**` Dev`**
+**`Dev Front-End`**
 
-Me chamo Gabriella Céspedes, tenho 19 anos e sou do interior de São Paulo. Concluí o ensino médio na Etec Prof Marinês Teodoro de Freitas Almeida, com o curso técnico em desenvolvimento de sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP - Campus Catanduva. Tenho um grande apreço por tecnologia e desenvolvimento de softwares.
+👩🏻‍💻 Me chamo Gabriella Céspedes, estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFSP - Campus Catanduva.
+ ↳ Formada na Etec Prof Marinês Teodoro de Freitas Almeida com o curso técnico em Desenvolvimento de Sistemas.
+
+🔭 Atualmente, estou focada em melhorar minhas habilidades em JS e Python.
+💬 Pergunte-me sobre desenvolvimento front-end e design web.
+🤔 Preciso de ajuda com algoritmos avançados e estruturas de dados em C.
+⚡ Curiosidade: Sou apaixonado por tecnologia e gosto de explorar conceitos de redes no meu tempo livre.
+📫 Contato: gcespedes122@gmail.com
 
 <p align="left">
     </a> 
