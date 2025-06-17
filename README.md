@@ -5,10 +5,10 @@
 👩🏻‍💻 Me chamo Gabriella Céspedes, estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFSP - Campus Catanduva.
  ↳ Formada na Etec Prof Marinês Teodoro de Freitas Almeida com o curso técnico em Desenvolvimento de Sistemas.
 
-🔭 Atualmente, estou focada em melhorar minhas habilidades em JS e Python.
-💬 Pergunte-me sobre desenvolvimento front-end e design web.
-🤔 Preciso de ajuda com algoritmos avançados e estruturas de dados em C.
-⚡ Curiosidade: Sou apaixonado por tecnologia e gosto de explorar conceitos de redes no meu tempo livre.
+🔭 Atualmente, estou focada em melhorar minhas habilidades em JS e Python. </br>
+💬 Pergunte-me sobre desenvolvimento front-end e design web. </br>
+🤔 Preciso de ajuda com algoritmos avançados e estruturas de dados em C. </br>
+⚡ Curiosidade: Sou apaixonado por tecnologia e gosto de explorar conceitos de redes no meu tempo livre. </br>
 📫 Contato: gcespedes122@gmail.com
 
 <p align="left">
