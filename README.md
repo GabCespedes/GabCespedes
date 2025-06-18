@@ -2,12 +2,12 @@
 
 **`Dev Front-End`**
 
-👩🏻‍💻 Me chamo Gabriella Céspedes, estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFSP - Campus Catanduva.
+👩🏻‍💻 Me chamo Gabriella Céspedes, estudante do 3º período de Análise e Desenvolvimento de Sistemas no IFSP - Campus Catanduva. </br>
  ↳ Formada na Etec Prof Marinês Teodoro de Freitas Almeida com o curso técnico em Desenvolvimento de Sistemas.
 
 🔭 Atualmente, estou focada em melhorar minhas habilidades em JS e Python. </br>
 💬 Pergunte-me sobre desenvolvimento front-end e design web. </br>
-⚡ Curiosidade: Sou apaixonado por tecnologia e gosto de explorar conceitos de redes no meu tempo livre. </br>
+⚡ Curiosidade: Tenho um grande apreço por tecnologia e desenvolvimento de softwares. </br>
 📫 Contato: gcespedes122@gmail.com
 
 <p align="left">
