@@ -8,7 +8,7 @@
 🔭 Atualmente, estou focada em melhorar minhas habilidades em JS e Python. </br>
 💬 Pergunte-me sobre desenvolvimento front-end e design web. </br>
 ⚡ Curiosidade: Tenho um grande apreço por tecnologia e desenvolvimento de softwares. </br>
-📫 Contato: gcespedes122@gmail.com
+📫 Contato: gab.cespedesz@gmail.com
 
 <p align="left">
     </a> 
